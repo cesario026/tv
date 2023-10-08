@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Portugal",CNN Portugal
-https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 #EXTINF:-1 group-title="Portugal",24 Kitchen
 http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69052
 #EXTINF:-1 group-title="Portugal",A Bola TV
@@ -32,13 +30,13 @@ http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68960
 http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68989
 #EXTINF:-1 group-title="Portugal",Sport TV 2
 http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68992
-#EXTINF:-1 group-title="Portugal",Toros HD
+#EXTINF:-1 group-title="Portugal",Toros
 http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/79502
 #EXTINF:-1 group-title="Portugal",TVI Ficção
 http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68975
-#EXTINF:-1 group-title="Portugal",TVI HD 
+#EXTINF:-1 group-title="Portugal",TVI
 http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68961
-#EXTINF:-1, group-title="Portugal"TVI24 HD
+#EXTINF:-1 group-title="Portugal", TVI24
 http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68967
 
 #EXTINF:-1 group-title="Chile",13C
